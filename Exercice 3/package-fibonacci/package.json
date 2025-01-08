@@ -1,0 +1,8 @@
+{
+  "name": "andrewmahe-npm-fibonacci",
+  "version": "1.0.0",
+  "description": "Un exemple de module Node.js",
+  "main": "index.js",
+  "author": "roxasenjoy",
+  "license": "ISC"
+}
